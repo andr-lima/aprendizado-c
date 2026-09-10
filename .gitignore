@@ -1,0 +1,18 @@
+# Compilados
+*.exe
+*.out
+*.o
+
+# VS Code
+.vscode/
+
+# Temporários
+tempCodeRunnerFile.c
+*.tmp
+
+# Compactados
+*.zip
+
+# OS
+Thumbs.db
+.DS_Store
